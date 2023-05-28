@@ -1,9 +1,9 @@
 # justEat
 # Frontend : HTML, CSS, JavaScript, JSP, Bootstrap
 # Backend : Java, Spring MVC, Spring Boot
-Database : MySQL
+# Database : MySQL
 
-Modules : 
+# Modules : 
 # 1. Login/Registration Module
 # 2. Food Category: Add Category, Delete Category, View Category
 # 3. Food Module: Add Food, Update Food, Delete Food, View Food, Search Food
