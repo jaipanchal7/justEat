@@ -1,7 +1,7 @@
-# justEat
-# Frontend : HTML, CSS, JavaScript, JSP, Bootstrap
-# Backend : Java, Spring MVC, Spring Boot
-# Database : MySQL
+# justEat <br />
+Frontend : HTML, CSS, JavaScript, JSP, Bootstrap <br/>
+Backend : Java, Spring MVC, Spring Boot <br/>
+Database : MySQL <br/>
 
 # Modules : 
 # 1. Login/Registration Module
