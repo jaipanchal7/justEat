@@ -7,9 +7,9 @@ An online food ordering system generally has two components: a web app that allo
 3. It will track all the details about the customer, order, confirm order. <br/>
 
 # Technologies
-Frontend : HTML, CSS, JavaScript, JSP, Bootstrap <br/>
-Backend : Java, Spring MVC, Spring Boot <br/>
-Database : MySQL <br/>
+Frontend: HTML, CSS, JavaScript, JSP and Bootstrap <br/>
+Backend: Java, Spring MVC, Spring Boot <br/>
+Database: MySQL <br/>
 
 # Modules :
 1. Login/Registration Module <br/>
