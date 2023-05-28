@@ -1,5 +1,5 @@
 # justEat
-An online food ordering system generally has two components: a website or app that allows customers to view the menu and place an order, and an admin interface that enables the restaurant to receive and fulfill customer orders.
+An online food ordering system generally has two components: a web app that allows customers to view the menu and place an order, and an admin interface that enables the restaurant to receive and fulfill customer orders.
 
 # Objectives
 1. The main objective of the project on Online Food Ordering System is to manage the details of food item, category, customer, order, confirm order. <br/>
