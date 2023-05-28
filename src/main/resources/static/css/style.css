@@ -1,0 +1,144 @@
+body
+{
+    margin: 0;
+    height: 100%;
+}
+
+.custom-bg
+{
+    background:#fcde67!important;
+
+}
+
+.text-color
+{
+    color:#030e12;
+}
+
+.logo{
+    color: white;
+    font-size: 34px;
+}
+
+.admin-nav{
+    color: #030e12;
+    font-size: 18px;
+    margin-left: 51px;
+}
+
+.categories{
+    color: #030e12;
+    margin-left: 51px;
+    font-size: 18px;
+}
+
+.about-us{
+    color: #030e12;
+    margin-left: -3px;
+    /*margin-top: 8px;*/
+    font-size: 18px;
+    cursor:pointer;
+}
+
+.contact-us{
+    color: #030e12;
+    margin-left: 1px;
+    /*margin-top: 8px;*/
+    /*margin-right: 23px;*/
+    font-size: 18px;
+    cursor:pointer;
+}
+
+.myorder{
+    /*color: #ffa700;*/
+    color: #030e12;
+    font-size: 18px;
+    margin-left: 12px;
+    margin-right: 12px;
+    /*margin-top: 12px;*/
+}
+
+.logout{
+    color: #030e12;
+    font-size: 18px;
+    margin-left: -5px;
+}
+
+.forget-pass{
+    color: #030e12;
+    font-size: 18px;
+}
+
+.user-reg{
+    color: #030e12;
+    font-size: 18px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.login{
+    color: #030e12;
+    font-size: 18px;
+    margin-left: -5px;
+}
+
+.nav-link{
+    margin-left: 1px;
+}
+
+.form-control{
+    /*margin-left: -38px;*/
+}
+
+
+.admin .card{
+    border: 1px solid #fcde67;
+}
+
+.card-columns:hover{
+    background:cover;
+    cursor:pointer;
+}
+
+.card:hover{
+    background:cover;
+    cursor:pointer;
+}
+
+.list-group-item-action active
+{
+    background:#fcde67!important;
+    border-color:#fcde67!important;
+}
+
+.mid-align:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -0.25em;
+
+}
+
+.non-underline-link{
+    text-decoration: none !important;
+}
+
+.bcontent {
+    margin-top: 10px;
+}
+
+.modal-size {
+    max-width: 80% !important;
+}
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
