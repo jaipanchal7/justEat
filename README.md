@@ -1,4 +1,7 @@
 # justEat
+An online food ordering system generally has two components – a website or app that allows customers to view the menu and place an order, and an admin interface that enables the restaurant to receive and fulfil customer orders.
+
+# Technologies
 Frontend : HTML, CSS, JavaScript, JSP, Bootstrap <br/>
 Backend : Java, Spring MVC, Spring Boot <br/>
 Database : MySQL <br/>
